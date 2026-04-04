@@ -1,0 +1,5 @@
+az network nsg rule update \
+    --resource-group RG-networking-Lab \
+    --nsg-name NSG-FrontEnd \
+    --name Allow-SSH-Inbound
+    --source-address-prefixes 190.5.20.150/32 \
