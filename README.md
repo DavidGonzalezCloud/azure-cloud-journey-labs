@@ -1,4 +1,4 @@
-# ☁️ Azure CLI Journey Labs
+# ☁️ Azure CLI Labs
 
 Este repositorio es una bitácora técnica y práctica que documenta mi aprendizaje y desarrollo de infraestructura como código utilizando la **Interfaz de Línea de Comandos de Azure (Azure CLI)**. 
 
